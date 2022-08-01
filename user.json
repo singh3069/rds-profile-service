@@ -1,0 +1,16 @@
+
+
+{
+"first_name":"saurabh",
+"last_name" : "rai",
+"email" :"raisaurabh@gmail.com",
+"phone" : 1234567890,
+"yoe" :2,
+"company": "abc.tech",
+"designation": "frontend developer",
+"github_id" : "https://github.com/singh3069",
+"linkedin_id": "nil",
+"twitter_id": "nil",
+"instagram_id": "nil",
+"website": "nil"
+}
